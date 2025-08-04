@@ -11,7 +11,7 @@ export default function Home() {
           I build responsive web applications using the <span className="font-semibold text-black">MERN stack</span> (MongoDB, Express.js, React, Node.js) and have hands-on experience in developing full-stack projects, custom APIs, and user-friendly interfaces.
         </p>
         <a
-          href="/projects"
+          href="./projects"
           className="inline-block bg-black text-white px-6 py-3 rounded-lg shadow-md hover:bg-gray-800 transition duration-300"
         >
           View My Projects
